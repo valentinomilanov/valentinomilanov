@@ -9,7 +9,7 @@ QA Automation Engineer with 9+ years of experience designing and maintaining aut
 ## 🛠️ Tech Stack
 
 **Test Automation**
-- Cypress · Selenium · JavaScript · Java
+- Cypress · Playwright · Selenium · JavaScript · Java
 
 **API Testing**
 - REST · cy.request() · RestAssured · Postman
