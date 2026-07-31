@@ -1,6 +1,6 @@
 # Hi, I'm Valentino Milanov 👋
 
-QA Automation Engineer with 9+ years of experience designing and maintaining automated test frameworks for modern web and API-driven applications. Strong focus on code-driven quality practices, CI/CD integration, and scalable automation architecture.
+QA Automation Engineer with 10+ years of experience designing and maintaining automated test frameworks for modern web and API-driven applications. Strong focus on code-driven quality practices, CI/CD integration, and scalable automation architecture.
 
 📍 Chula Vista, CA, USA
 
